@@ -75,13 +75,13 @@ export async function getHolidays(country_id) {
 const hotel_pool = [
   {
     hotel_name: 'good hotel',
-    room_type: 'twin',
+    room_type: 'Twin Room',
     price: 50
   },
   {
-    hotel_name: 'good hotel',
+    hotel_name: 'pretty hotel',
     room_type: 'Double Room',
-    price: 60
+    price: 23
   },
   {
     hotel_name: 'nice hotel',
@@ -89,12 +89,19 @@ const hotel_pool = [
     price: 42
   },
   {
-    hotel_name: 'good hotel',
+    hotel_name: 'beautiful hotel',
     room_type: 'Single Room',
-    price: 25
+    price: 20
+  },
+  {
+    hotel_name: 'very beautiful hotel',
+    room_type: 'Single Room',
+    price: 35
   },
 ]
 
 export async function getAccommodationInfo(time, city) {
-  return Promise.resolve(hotel_pool[getRandomInt(hotel_pool.length)])
+  const hotel_room = hotel_pool[getRandomInt(hotel_pool.length)]
+  hotel_room.price = getRandomInt(30) + 20
+  return Promise.resolve(hotel_room)
 }

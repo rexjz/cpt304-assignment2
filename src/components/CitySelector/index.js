@@ -26,7 +26,7 @@ export default function CitySelector(props) {
 
   return (
     <div className="city-selector-container">
-      <Cascader style={{width: '400PX'}} size="large" options={options} onChange={onChange} placeholder="Please select" />
+      <Cascader style={{width: '400PX'}} size="large" options={options} onChange={onChange} placeholder="Please select where you want to go" />
     </div>
   )
 }

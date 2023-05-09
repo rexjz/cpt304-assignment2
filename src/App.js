@@ -13,7 +13,10 @@ function App() {
   const [time, setTime] = useState(undefined)
   return (
     <div className="App" style={{padding: '32px'}}>
-        <div style={{ display: 'flex', flexDirection: 'row', width: '200px' }}>
+        <div style={{width: '600px', display: 'flex', justifyContent: 'center', fontSize:'32px'}}>
+          Vacation Assistant
+        </div>
+        <div style={{ display: 'flex', flexDirection: 'row', width: '200px', marginTop: '16px' }}>
           <div style={{ display: 'flex', flexDirection: 'column' }}>      
             <CitySelector onChange={setRegion}/>
             <div style={{ height: '16px' }}/>
@@ -25,10 +28,10 @@ function App() {
               }
             }}/>
           </div>
-          <div style={{ display: 'flex', flexDirection: 'column', marginLeft: '12px' }}>
+          <div style={{ display: 'flex', flexDirection: 'column', marginLeft: '12px', width: '200px' }}>
             <WheatherViewer time={time} geo={region} datasource={getWheather} adapter={(apiResponse) => { return apiResponse}}/> 
             <div style={{ height: '16px' }}/>
-            <AccommodationViewer city={region ? region[2] : undefined} time={time} datasource={getAccommodationInfo} />
+            <AccommodationViewer city={region} time={time} datasource={getAccommodationInfo} />
           </div>
         </div>
     </div>
