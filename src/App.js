@@ -15,7 +15,13 @@ function App() {
           <div style={{ display: 'flex', flexDirection: 'column' }}>      
             <CitySelector onChange={setRegion}/>
             <div style={{ height: '16px' }}/>
-            <HolidayViewer region={region} onChange={(holiday) => {setTime(holiday.date)}}/>
+            <HolidayViewer region={region} onChange={(holiday) => {
+              if(holiday) {
+                setTime(holiday.date)
+              } else {
+                setTime(undefined)
+              }
+            }}/>
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', marginLeft: '12px' }}>
             <WheatherViewer time={time} geo={region} datasource={getWheather} adapter={(apiResponse) => { return apiResponse}}/> 

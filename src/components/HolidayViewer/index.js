@@ -14,13 +14,20 @@ export default function HolidayViewer(props) {
         console.log(resp)
       })
     }
+    setValue(undefined)
+    onChange(undefined)
   }, [region])
 
-  const [value, setValue] = useState(1);
+  const [value, setValue] = useState(undefined);
   const onChange = (e) => {
-    console.log('radio checked', e.target.value);
-    setValue(e.target.value);
-    deliver(holidays[e.target.value])
+    if(e) {
+      setValue(e.target.value);
+      deliver(holidays[e.target.value])
+    } else {
+      setValue(undefined);
+      deliver(undefined)
+    }
+
   };
 
   return (
