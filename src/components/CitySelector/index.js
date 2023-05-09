@@ -4,44 +4,10 @@ import { sitySelectorDataAdapter } from "../../adapters"
 import { Cascader } from 'antd';
 import './index.css'
 
-const options = [
-  {
-    value: 'zhejiang',
-    label: 'Zhejiang',
-    children: [
-      {
-        value: 'hangzhou',
-        label: 'Hangzhou',
-        children: [
-          {
-            value: 'xihu',
-            label: 'West Lake',
-          },
-        ],
-      },
-    ],
-  },
-  {
-    value: 'jiangsu',
-    label: 'Jiangsu',
-    children: [
-      {
-        value: 'nanjing',
-        label: 'Nanjing',
-        children: [
-          {
-            value: 'zhonghuamen',
-            label: 'Zhong Hua Men',
-          },
-        ],
-      },
-    ],
-  },
-];
-
-export default function CitySelector() {
+export default function CitySelector(props) {
+  const { onChange: deliver = () => {} } = props;
   const [options, setOptions] = useState([]);
-
+  const regionOnChange = 
   useEffect(() => {
     getCountryList().then( resp => {
       const opts = sitySelectorDataAdapter(resp)
@@ -52,6 +18,11 @@ export default function CitySelector() {
   }, [])
   
   const onChange = useCallback((e) => {
+    deliver({
+      country: e[0],
+      station: e[1],
+      city: e[2]
+    })
     console.log(e)
   }, [options])
 
