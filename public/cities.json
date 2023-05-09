@@ -1,0 +1,3237 @@
+{
+	"Earth": {
+		"Country": [
+      {
+        "CountryID": "Australia",
+        "CountryName": "澳大利亚",
+        "Station": [{
+          "StationID": "South Australia",
+          "StationName": "南澳大利亚",
+          "City": [{
+            "CityID": "Murray Bridgeport",
+            "CityName": "默里布里奇"
+          },
+          {
+            "CityID": "Victor Harbor",
+            "CityName": "维克托港"
+          },
+          {
+            "CityID": "Port Pirie",
+            "CityName": "皮里港"
+          },
+          {
+            "CityID": "Whyalla",
+            "CityName": "怀阿拉"
+          },
+          {
+            "CityID": "Adelaide",
+            "CityName": "阿德莱德"
+          },
+          {
+            "CityID": "Port Augusta",
+            "CityName": "奥古斯塔港"
+          },
+          {
+            "CityID": "Gambia Hill",
+            "CityName": "甘比亚山"
+          },
+          {
+            "CityID": "Port Lincoln",
+            "CityName": "林肯港"
+          }]
+        },
+        {
+          "StationID": "Northern Territory",
+          "StationName": "北部地区",
+          "City": [{
+            "CityID": "Darwin",
+            "CityName": "达尔文"
+          },
+          {
+            "CityID": "Palmerston North",
+            "CityName": "北帕默斯顿"
+          }]
+        },
+        {
+          "StationID": "Queensland",
+          "StationName": "昆士兰",
+          "City": [{
+            "CityID": "Brisbane",
+            "CityName": "布里斯班"
+          },
+          {
+            "CityID": "Gold Coast",
+            "CityName": "黄金海岸"
+          },
+          {
+            "CityID": "Toowoomba",
+            "CityName": "图文巴"
+          },
+          {
+            "CityID": "Cairns",
+            "CityName": "凯恩斯"
+          },
+          {
+            "CityID": "Townsville",
+            "CityName": "汤斯维尔"
+          },
+          {
+            "CityID": "Sun Coast",
+            "CityName": "日光海岸"
+          }]
+        },
+        {
+          "StationID": "Canberra",
+          "StationName": "堪培拉",
+          "City": {
+            "CityID": "Canberra",
+            "CityName": "堪培拉"
+          }
+        },
+        {
+          "StationID": "New South Wales",
+          "StationName": "新南威尔士",
+          "City": [{
+            "CityID": "Newcastle",
+            "CityName": "纽卡斯尔"
+          },
+          {
+            "CityID": "Wollongong",
+            "CityName": "伍伦贡"
+          },
+          {
+            "CityID": "Sydney",
+            "CityName": "悉尼"
+          }]
+        },
+        {
+          "StationID": "Tasmania",
+          "StationName": "塔斯马尼亚",
+          "City": [{
+            "CityID": "Hobart",
+            "CityName": "霍巴特"
+          },
+          {
+            "CityID": "Launceston",
+            "CityName": "朗塞斯顿"
+          },
+          {
+            "CityID": "Bernie Kong",
+            "CityName": "伯尼港"
+          },
+          {
+            "CityID": "Devonport",
+            "CityName": "德文波特"
+          }]
+        },
+        {
+          "StationID": "Western Australia",
+          "StationName": "西澳大利亚",
+          "City": [{
+            "CityID": "Port of Fremantle",
+            "CityName": "弗里曼特尔港"
+          },
+          {
+            "CityID": "Albany",
+            "CityName": "奥尔巴尼"
+          },
+          {
+            "CityID": "Banbury",
+            "CityName": "班伯里"
+          },
+          {
+            "CityID": "Kalgoorlie",
+            "CityName": "卡尔古利"
+          },
+          {
+            "CityID": "Geraldton",
+            "CityName": "杰拉尔顿"
+          },
+          {
+            "CityID": "Perth",
+            "CityName": "珀斯"
+          },
+          {
+            "CityID": "Mandurah",
+            "CityName": "曼哲拉"
+          }]
+        },
+        {
+          "StationID": "Victoria",
+          "StationName": "维多利亚",
+          "City": [{
+            "CityID": "Melbourne",
+            "CityName": "墨尔本"
+          },
+          {
+            "CityID": "Geelong",
+            "CityName": "吉朗"
+          }]
+        }]
+      },		{
+        "CountryID": "Canada",
+        "CountryName": "加拿大",
+        "Station": [{
+          "StationID": "Barry",
+          "StationName": "巴里",
+          "City": {
+            "CityID": "Barry",
+            "CityName": "巴里"
+          }
+        },
+        {
+          "StationID": "Cape Breton",
+          "StationName": "布列塔尼角",
+          "City": {
+            "CityID": "Cape Breton",
+            "CityName": "布列塔尼角"
+          }
+        },
+        {
+          "StationID": "Edmonton",
+          "StationName": "埃德蒙顿",
+          "City": {
+            "CityID": "Edmonton",
+            "CityName": "埃德蒙顿"
+          }
+        },
+        {
+          "StationID": "Oshawa",
+          "StationName": "奥沙瓦",
+          "City": {
+            "CityID": "Oshawa",
+            "CityName": "奥沙瓦"
+          }
+        },
+        {
+          "StationID": "Guelph",
+          "StationName": "圭尔夫",
+          "City": {
+            "CityID": "Guelph",
+            "CityName": "圭尔夫"
+          }
+        },
+        {
+          "StationID": "Halifax",
+          "StationName": "哈利法克斯",
+          "City": {
+            "CityID": "Halifax",
+            "CityName": "哈利法克斯"
+          }
+        },
+        {
+          "StationID": "Toronto",
+          "StationName": "多伦多",
+          "City": {
+            "CityID": "Toronto",
+            "CityName": "多伦多"
+          }
+        },
+        {
+          "StationID": "Frederic Leighton",
+          "StationName": "弗雷德里顿",
+          "City": {
+            "CityID": "Frederic Leighton",
+            "CityName": "弗雷德里顿"
+          }
+        },
+        {
+          "StationID": "Abbotsford",
+          "StationName": "阿伯茨福",
+          "City": {
+            "CityID": "Abbotsford",
+            "CityName": "阿伯茨福"
+          }
+        },
+        {
+          "StationID": "Hamilton",
+          "StationName": "哈密尔顿",
+          "City": {
+            "CityID": "Hamilton",
+            "CityName": "哈密尔顿"
+          }
+        },
+        {
+          "StationID": "Saskatoon",
+          "StationName": "萨斯卡通",
+          "City": {
+            "CityID": "Saskatoon",
+            "CityName": "萨斯卡通"
+          }
+        },
+        {
+          "StationID": "Three Rivers",
+          "StationName": "三河城",
+          "City": {
+            "CityID": "Three Rivers",
+            "CityName": "三河城"
+          }
+        },
+        {
+          "StationID": "Montreal",
+          "StationName": "蒙特利尔",
+          "City": {
+            "CityID": "Montreal",
+            "CityName": "蒙特利尔"
+          }
+        },
+        {
+          "StationID": "Sudbury",
+          "StationName": "萨德伯里",
+          "City": {
+            "CityID": "Sudbury",
+            "CityName": "萨德伯里"
+          }
+        },
+        {
+          "StationID": "Santa Catarina11",
+          "StationName": "圣卡塔琳娜",
+          "City": {
+            "CityID": "Santa Catarina11",
+            "CityName": "圣卡塔琳娜"
+          }
+        },
+        {
+          "StationID": "St. Johns",
+          "StationName": "圣约翰斯",
+          "City": {
+            "CityID": "St. Johns",
+            "CityName": "圣约翰斯"
+          }
+        },
+        {
+          "StationID": "Thunder Bay",
+          "StationName": "桑德贝",
+          "City": {
+            "CityID": "Thunder Bay",
+            "CityName": "桑德贝"
+          }
+        },
+        {
+          "StationID": "Sherbrooke",
+          "StationName": "舍布鲁克",
+          "City": {
+            "CityID": "Sherbrooke",
+            "CityName": "舍布鲁克"
+          }
+        },
+        {
+          "StationID": "Kitchener",
+          "StationName": "基奇纳",
+          "City": {
+            "CityID": "Kitchener",
+            "CityName": "基奇纳"
+          }
+        },
+        {
+          "StationID": "Kingston",
+          "StationName": "金斯敦",
+          "City": {
+            "CityID": "Kingston",
+            "CityName": "金斯敦"
+          }
+        },
+        {
+          "StationID": "Whitehorse",
+          "StationName": "怀特霍斯",
+          "City": {
+            "CityID": "Whitehorse",
+            "CityName": "怀特霍斯"
+          }
+        },
+        {
+          "StationID": "Ji Laona",
+          "StationName": "基劳纳",
+          "City": {
+            "CityID": "Ji Laona",
+            "CityName": "基劳纳"
+          }
+        },
+        {
+          "StationID": "Regina",
+          "StationName": "里贾纳",
+          "City": {
+            "CityID": "Regina",
+            "CityName": "里贾纳"
+          }
+        },
+        {
+          "StationID": "London",
+          "StationName": "伦敦",
+          "City": {
+            "CityID": "London",
+            "CityName": "伦敦"
+          }
+        },
+        {
+          "StationID": "Cary Gary",
+          "StationName": "卡里加里",
+          "City": {
+            "CityID": "Cary Gary",
+            "CityName": "卡里加里"
+          }
+        },
+        {
+          "StationID": "Quebec",
+          "StationName": "魁北克",
+          "City": {
+            "CityID": "Quebec",
+            "CityName": "魁北克"
+          }
+        },
+        {
+          "StationID": "Winnipeg",
+          "StationName": "温尼伯",
+          "City": {
+            "CityID": "Winnipeg",
+            "CityName": "温尼伯"
+          }
+        },
+        {
+          "StationID": "Windsor",
+          "StationName": "温莎",
+          "City": {
+            "CityID": "Windsor",
+            "CityName": "温莎"
+          }
+        },
+        {
+          "StationID": "Victoria1",
+          "StationName": "维多利亚",
+          "City": {
+            "CityID": "Victoria",
+            "CityName": "维多利亚"
+          }
+        },
+        {
+          "StationID": "Vancouver",
+          "StationName": "温哥华",
+          "City": {
+            "CityID": "Vancouver",
+            "CityName": "温哥华"
+          }
+        },
+        {
+          "StationID": "Yellowknife",
+          "StationName": "耶洛奈夫",
+          "City": {
+            "CityID": "Yellowknife",
+            "CityName": "耶洛奈夫"
+          }
+        },
+        {
+          "StationID": "Iqaluit",
+          "StationName": "伊魁特",
+          "City": {
+            "CityID": "Iqaluit",
+            "CityName": "伊魁特"
+          }
+        },
+        {
+          "StationID": "Ottawa",
+          "StationName": "渥太华",
+          "City": {
+            "CityID": "Ottawa",
+            "CityName": "渥太华"
+          }
+        },
+        {
+          "StationID": "Charlottetown",
+          "StationName": "夏洛特敦",
+          "City": {
+            "CityID": "Charlottetown",
+            "CityName": "夏洛特敦"
+          }
+        }]
+      },
+      {
+        "CountryID": "China",
+        "CountryName": "中国",
+        "Station": [{
+          "StationID": "anhuisheng",
+          "StationName": "安徽省",
+          "City": [{
+            "CityID": "zhoushi",
+            "CityName": "亳州市"
+          },
+          {
+            "CityID": "chizhoushi",
+            "CityName": "池州市"
+          },
+          {
+            "CityID": "chaohushi",
+            "CityName": "巢湖市"
+          },
+          {
+            "CityID": "xuanchengshi",
+            "CityName": "宣城市"
+          },
+          {
+            "CityID": "liuanshi",
+            "CityName": "六安市"
+          },
+          {
+            "CityID": "hefeishi",
+            "CityName": "合肥市"
+          },
+          {
+            "CityID": "bangbushi",
+            "CityName": "蚌埠市"
+          },
+          {
+            "CityID": "chuzhoushi",
+            "CityName": "滁州市"
+          },
+          {
+            "CityID": "huangshanshi",
+            "CityName": "黄山市"
+          },
+          {
+            "CityID": "fuyangshi",
+            "CityName": "阜阳市"
+          },
+          {
+            "CityID": "suzhoushi",
+            "CityName": "宿州市"
+          },
+          {
+            "CityID": "maanshanshi",
+            "CityName": "马鞍山市"
+          },
+          {
+            "CityID": "huainanshi",
+            "CityName": "淮南市"
+          },
+          {
+            "CityID": "huaibeishi",
+            "CityName": "淮北市"
+          },
+          {
+            "CityID": "anqingshi",
+            "CityName": "安庆市"
+          },
+          {
+            "CityID": "tonglingshi",
+            "CityName": "铜陵市"
+          },
+          {
+            "CityID": "wuhushi",
+            "CityName": "芜湖市"
+          }]
+        },
+        {
+          "StationID": "beijingshi",
+          "StationName": "北京市",
+          "City": {
+            "CityID": "beijingshi",
+            "CityName": "北京市"
+          }
+        },
+        {
+          "StationID": "chongqingshi",
+          "StationName": "重庆市",
+          "City": {
+            "CityID": "chongqingshi",
+            "CityName": "重庆市"
+          }
+        },
+        {
+          "StationID": "fujiangsheng",
+          "StationName": "福建省",
+          "City": {
+            "CityID": "FuZhou",
+            "CityName": "福州市"
+          }
+        },
+        {
+          "StationID": "guangdongsheng",
+          "StationName": "广东省",
+          "City": [{
+            "CityID": "guangzhoushi",
+            "CityName": "广州市"
+          },
+          {
+            "CityID": "shantoushi",
+            "CityName": "汕头市"
+          },
+          {
+            "CityID": "zhuhaishi",
+            "CityName": "珠海市"
+          },
+          {
+            "CityID": "foshanshi",
+            "CityName": "佛山市"
+          },
+          {
+            "CityID": "zhanjiangshi",
+            "CityName": "湛江市"
+          },
+          {
+            "CityID": "jiangmenshi",
+            "CityName": "江门市"
+          },
+          {
+            "CityID": "shenshi",
+            "CityName": "深圳市"
+          },
+          {
+            "CityID": "shaoguanshi",
+            "CityName": "韶关市"
+          },
+          {
+            "CityID": "yangjiangshi",
+            "CityName": "阳江市"
+          },
+          {
+            "CityID": "heyuanshi",
+            "CityName": "河源市"
+          },
+          {
+            "CityID": "qingyuanshi",
+            "CityName": "清远市"
+          },
+          {
+            "CityID": "jieyangshi",
+            "CityName": "揭阳市"
+          },
+          {
+            "CityID": "chaozhoushi",
+            "CityName": "潮州市"
+          },
+          {
+            "CityID": "zhaoqingshi",
+            "CityName": "肇庆市"
+          },
+          {
+            "CityID": "maomingshi",
+            "CityName": "茂名市"
+          },
+          {
+            "CityID": "huizhoushi",
+            "CityName": "惠州市"
+          },
+          {
+            "CityID": "shanweishi",
+            "CityName": "汕尾市"
+          },
+          {
+            "CityID": "meizhoushi",
+            "CityName": "梅州市"
+          },
+          {
+            "CityID": "yunfushi",
+            "CityName": "云浮市"
+          },
+          {
+            "CityID": "zhongshanshi",
+            "CityName": "中山市"
+          },
+          {
+            "CityID": "dongshi",
+            "CityName": "东莞市"
+          }]
+        },
+        {
+          "StationID": "guizhousheng",
+          "StationName": "贵州省",
+          "City": [{
+            "CityID": "qiandongnanmiaozudongzuzizhizhou",
+            "CityName": "黔东南苗族侗族自治州"
+          },
+          {
+            "CityID": "bijiediqu",
+            "CityName": "毕节地区"
+          },
+          {
+            "CityID": "qiannanbuyizumiaozuzizhizhou",
+            "CityName": "黔南布依族苗族自治州"
+          },
+          {
+            "CityID": "zunyishi",
+            "CityName": "遵义市"
+          },
+          {
+            "CityID": "liupanshuishi",
+            "CityName": "六盘水市"
+          },
+          {
+            "CityID": "anshunshi",
+            "CityName": "安顺市"
+          },
+          {
+            "CityID": "qianxinanbuyizumiaozuzizhizhou",
+            "CityName": "黔西南布依族苗族自治州"
+          },
+          {
+            "CityID": "tongrendiqu",
+            "CityName": "铜仁地区"
+          },
+          {
+            "CityID": "guiyangshi",
+            "CityName": "贵阳市"
+          }]
+        },
+        {
+          "StationID": "hebeisheng",
+          "StationName": "河北省",
+          "City": [{
+            "CityID": "tangshanshi",
+            "CityName": "唐山市"
+          },
+          {
+            "CityID": "zhangjiakoushi",
+            "CityName": "张家口市"
+          },
+          {
+            "CityID": "baodingshi",
+            "CityName": "保定市"
+          },
+          {
+            "CityID": "chengdeshi",
+            "CityName": "承德市"
+          },
+          {
+            "CityID": "langfangshi",
+            "CityName": "廊坊市"
+          },
+          {
+            "CityID": "cangzhoushi",
+            "CityName": "沧州市"
+          },
+          {
+            "CityID": "shijiazhuangshi",
+            "CityName": "石家庄市"
+          },
+          {
+            "CityID": "qinhuangdaoshi",
+            "CityName": "秦皇岛市"
+          },
+          {
+            "CityID": "xingtaishi",
+            "CityName": "邢台市"
+          },
+          {
+            "CityID": "handanshi",
+            "CityName": "邯郸市"
+          },
+          {
+            "CityID": "hengshuishi",
+            "CityName": "衡水市"
+          }]
+        },
+        {
+          "StationID": "henansheng",
+          "StationName": "河南省",
+          "City": [{
+            "CityID": "zhengzhoushi",
+            "CityName": "郑州市"
+          },
+          {
+            "CityID": "kaifengshi",
+            "CityName": "开封市"
+          },
+          {
+            "CityID": "anyangshi",
+            "CityName": "安阳市"
+          },
+          {
+            "CityID": "pingdingshanshi",
+            "CityName": "平顶山市"
+          },
+          {
+            "CityID": "hebishi",
+            "CityName": "鹤壁市"
+          },
+          {
+            "CityID": "jiaozuoshi",
+            "CityName": "焦作市"
+          },
+          {
+            "CityID": "xinxiangshi",
+            "CityName": "新乡市"
+          },
+          {
+            "CityID": "luoyangshi",
+            "CityName": "洛阳市"
+          },
+          {
+            "CityID": "xinyangshi",
+            "CityName": "信阳市"
+          },
+          {
+            "CityID": "shangqiushi",
+            "CityName": "商丘市"
+          },
+          {
+            "CityID": "zhoukoushi",
+            "CityName": "周口市"
+          },
+          {
+            "CityID": "zhumadianshi",
+            "CityName": "驻马店市"
+          },
+          {
+            "CityID": "nanyangshi",
+            "CityName": "南阳市"
+          },
+          {
+            "CityID": "yangshi",
+            "CityName": "濮阳市"
+          },
+          {
+            "CityID": "jiyuanshi",
+            "CityName": "济源市"
+          },
+          {
+            "CityID": "xuchangshi",
+            "CityName": "许昌市"
+          },
+          {
+            "CityID": "sanmenxiashi",
+            "CityName": "三门峡市"
+          },
+          {
+            "CityID": "heshi",
+            "CityName": "漯河市"
+          }]
+        },
+        {
+          "StationID": "hubeisheng",
+          "StationName": "湖北省",
+          "City": [{
+            "CityID": "wuhanshi",
+            "CityName": "武汉市"
+          },
+          {
+            "CityID": "huangshishi",
+            "CityName": "黄石市"
+          },
+          {
+            "CityID": "shiyanshi",
+            "CityName": "十堰市"
+          },
+          {
+            "CityID": "huanggangshi",
+            "CityName": "黄冈市"
+          },
+          {
+            "CityID": "jingzhoushi",
+            "CityName": "荆州市"
+          },
+          {
+            "CityID": "xianningshi",
+            "CityName": "咸宁市"
+          },
+          {
+            "CityID": "enshitujiazumiaozuzizhizhou",
+            "CityName": "恩施土家族苗族自治州"
+          },
+          {
+            "CityID": "suizhoushi",
+            "CityName": "随州市"
+          },
+          {
+            "CityID": "xiangyangshi",
+            "CityName": "襄阳市"
+          },
+          {
+            "CityID": "yichangshi",
+            "CityName": "宜昌市"
+          },
+          {
+            "CityID": "ezhoushi",
+            "CityName": "鄂州市"
+          },
+          {
+            "CityID": "xiaoganshi",
+            "CityName": "孝感市"
+          },
+          {
+            "CityID": "jingmenshi",
+            "CityName": "荆门市"
+          },
+          {
+            "CityID": "shengzhixiaxianjixingzhengdanwei",
+            "CityName": "省直辖县级行政单位"
+          }]
+        },
+        {
+          "StationID": "hunansheng",
+          "StationName": "湖南省",
+          "City": [{
+            "CityID": "changshashi",
+            "CityName": "长沙市"
+          },
+          {
+            "CityID": "loudishi",
+            "CityName": "娄底市"
+          },
+          {
+            "CityID": "huaihuashi",
+            "CityName": "怀化市"
+          },
+          {
+            "CityID": "xiangxitujiazumiaozuzizhizhou",
+            "CityName": "湘西土家族苗族自治州"
+          },
+          {
+            "CityID": "yongzhoushi",
+            "CityName": "永州市"
+          },
+          {
+            "CityID": "changdeshi",
+            "CityName": "常德市"
+          },
+          {
+            "CityID": "yueyangshi",
+            "CityName": "岳阳市"
+          },
+          {
+            "CityID": "zhangjiajieshi",
+            "CityName": "张家界市"
+          },
+          {
+            "CityID": "chenzhoushi",
+            "CityName": "郴州市"
+          },
+          {
+            "CityID": "yiyangshi",
+            "CityName": "益阳市"
+          },
+          {
+            "CityID": "zhuzhoushi",
+            "CityName": "株洲市"
+          },
+          {
+            "CityID": "xiangtanshi",
+            "CityName": "湘潭市"
+          },
+          {
+            "CityID": "shaoyangshi",
+            "CityName": "邵阳市"
+          },
+          {
+            "CityID": "hengyangshi",
+            "CityName": "衡阳市"
+          }]
+        },
+        {
+          "StationID": "jiangsusheng",
+          "StationName": "江苏省",
+          "City": [{
+            "CityID": "wuxishi",
+            "CityName": "无锡市"
+          },
+          {
+            "CityID": "xuzhoushi",
+            "CityName": "徐州市"
+          },
+          {
+            "CityID": "nanjingshi",
+            "CityName": "南京市"
+          },
+          {
+            "CityID": "yangzhoushi",
+            "CityName": "扬州市"
+          },
+          {
+            "CityID": "yanchengshi",
+            "CityName": "盐城市"
+          },
+          {
+            "CityID": "zhenjiangshi",
+            "CityName": "镇江市"
+          },
+          {
+            "CityID": "suqianshi",
+            "CityName": "宿迁市"
+          },
+          {
+            "CityID": "taizhoushi",
+            "CityName": "台州市"
+          },
+          {
+            "CityID": "suzhoushi",
+            "CityName": "宿州市"
+          },
+          {
+            "CityID": "changzhoushi",
+            "CityName": "常州市"
+          },
+          {
+            "CityID": "nantongshi",
+            "CityName": "南通市"
+          },
+          {
+            "CityID": "huaianshi",
+            "CityName": "淮安市"
+          },
+          {
+            "CityID": "lianyungangshi",
+            "CityName": "连云港市"
+          }]
+        },
+        {
+          "StationID": "jiangxisheng",
+          "StationName": "江西省",
+          "City": [{
+            "CityID": "nanchangshi",
+            "CityName": "南昌市"
+          },
+          {
+            "CityID": "yichunshi",
+            "CityName": "宜春市"
+          },
+          {
+            "CityID": "jianshi",
+            "CityName": "吉安市"
+          },
+          {
+            "CityID": "fuzhoushi",
+            "CityName": "福州市"
+          },
+          {
+            "CityID": "shangraoshi",
+            "CityName": "上饶市"
+          },
+          {
+            "CityID": "ganzhoushi",
+            "CityName": "赣州市"
+          },
+          {
+            "CityID": "pingxiangshi",
+            "CityName": "萍乡市"
+          },
+          {
+            "CityID": "jingdezhenshi",
+            "CityName": "景德镇市"
+          },
+          {
+            "CityID": "jiujiangshi",
+            "CityName": "九江市"
+          },
+          {
+            "CityID": "yingtanshi",
+            "CityName": "鹰潭市"
+          },
+          {
+            "CityID": "xinyushi",
+            "CityName": "新余市"
+          }]
+        },
+        {
+          "StationID": "neimengguzizhiqu",
+          "StationName": "内蒙古自治区",
+          "City": [{
+            "CityID": "eerduosishi",
+            "CityName": "鄂尔多斯市"
+          },
+          {
+            "CityID": "tongliaoshi",
+            "CityName": "通辽市"
+          },
+          {
+            "CityID": "hulunbeiershi",
+            "CityName": "呼伦贝尔市"
+          },
+          {
+            "CityID": "wulanchabushi",
+            "CityName": "乌兰察布市"
+          },
+          {
+            "CityID": "bayannaoershi",
+            "CityName": "巴彦淖尔市"
+          },
+          {
+            "CityID": "huhehaoteshi",
+            "CityName": "呼和浩特市"
+          },
+          {
+            "CityID": "baotoushi",
+            "CityName": "包头市"
+          },
+          {
+            "CityID": "chifengshi",
+            "CityName": "赤峰市"
+          },
+          {
+            "CityID": "wuhaishi",
+            "CityName": "乌海市"
+          },
+          {
+            "CityID": "xilinguolemeng",
+            "CityName": "锡林郭勒盟"
+          },
+          {
+            "CityID": "xinganmeng",
+            "CityName": "兴安盟"
+          },
+          {
+            "CityID": "alashanmeng",
+            "CityName": "阿拉善盟"
+          }]
+        },
+        {
+          "StationID": "shandongsheng",
+          "StationName": "山东省",
+          "City": [{
+            "CityID": "dezhoushi",
+            "CityName": "德州市"
+          },
+          {
+            "CityID": "linyishi",
+            "CityName": "临沂市"
+          },
+          {
+            "CityID": "liaochengshi",
+            "CityName": "聊城市"
+          },
+          {
+            "CityID": "hezeshi",
+            "CityName": "菏泽市"
+          },
+          {
+            "CityID": "binzhoushi",
+            "CityName": "滨州市"
+          },
+          {
+            "CityID": "jinanshi",
+            "CityName": "济南市"
+          },
+          {
+            "CityID": "taianshi",
+            "CityName": "泰安市"
+          },
+          {
+            "CityID": "jiningshi",
+            "CityName": "济宁市"
+          },
+          {
+            "CityID": "weihaishi",
+            "CityName": "威海市"
+          },
+          {
+            "CityID": "laiwushi",
+            "CityName": "莱芜市"
+          },
+          {
+            "CityID": "rizhaoshi",
+            "CityName": "日照市"
+          },
+          {
+            "CityID": "weifangshi",
+            "CityName": "潍坊市"
+          },
+          {
+            "CityID": "ziboshi",
+            "CityName": "淄博市"
+          },
+          {
+            "CityID": "qingdaoshi",
+            "CityName": "青岛市"
+          },
+          {
+            "CityID": "zaozhuangshi",
+            "CityName": "枣庄市"
+          },
+          {
+            "CityID": "yantaishi",
+            "CityName": "烟台市"
+          },
+          {
+            "CityID": "dongyingshi",
+            "CityName": "东营市"
+          }]
+        },
+        {
+          "StationID": "shanghaishi",
+          "StationName": "上海市",
+          "City": {
+            "CityID": "shanghaishi",
+            "CityName": "上海市"
+          }
+        },
+        {
+          "StationID": "shanxisheng",
+          "StationName": "山西省",
+          "City": [{
+            "CityID": "lvliangshi",
+            "CityName": "吕梁市"
+          },
+          {
+            "CityID": "linfenshi",
+            "CityName": "临汾市"
+          },
+          {
+            "CityID": "shuozhoushi",
+            "CityName": "朔州市"
+          },
+          {
+            "CityID": "jinchengshi",
+            "CityName": "晋城市"
+          },
+          {
+            "CityID": "jinzhongshi",
+            "CityName": "晋中市"
+          },
+          {
+            "CityID": "xinzhoushi",
+            "CityName": "忻州市"
+          },
+          {
+            "CityID": "yunchengshi",
+            "CityName": "运城市"
+          },
+          {
+            "CityID": "taiyuanshi",
+            "CityName": "太原市"
+          },
+          {
+            "CityID": "datongshi",
+            "CityName": "大同市"
+          },
+          {
+            "CityID": "changzhishi",
+            "CityName": "长治市"
+          },
+          {
+            "CityID": "yangquanshi",
+            "CityName": "阳泉市"
+          }]
+        },
+        {
+          "StationID": "tianjinshi",
+          "StationName": "天津市",
+          "City": {
+            "CityID": "tianjinshi",
+            "CityName": "天津市"
+          }
+        },
+        {
+          "StationID": "xinjiangweiwuerzizhiqu",
+          "StationName": "新疆维吾尔自治区",
+          "City": [{
+            "CityID": "kelamayishi",
+            "CityName": "克拉玛依市"
+          },
+          {
+            "CityID": "wulumuqishi",
+            "CityName": "乌鲁木齐市"
+          },
+          {
+            "CityID": "tulufandiqu",
+            "CityName": "吐鲁番地区"
+          },
+          {
+            "CityID": "changjihuizuzizhizhou",
+            "CityName": "昌吉回族自治州"
+          },
+          {
+            "CityID": "hamidiqu",
+            "CityName": "哈密地区"
+          },
+          {
+            "CityID": "yilihasakezizhizhou",
+            "CityName": "伊犁哈萨克自治州"
+          },
+          {
+            "CityID": "hetiandiqu",
+            "CityName": "和田地区"
+          },
+          {
+            "CityID": "tachengdiqu",
+            "CityName": "塔城地区"
+          },
+          {
+            "CityID": "shengzhixiaxianjixingzhengdanwei",
+            "CityName": "省直辖县级行政单位"
+          },
+          {
+            "CityID": "aletaidiqu",
+            "CityName": "阿勒泰地区"
+          },
+          {
+            "CityID": "bayinguolengmengguzizhizhou",
+            "CityName": "巴音郭楞蒙古自治州"
+          },
+          {
+            "CityID": "boertalamengguzizhizhou",
+            "CityName": "博尔塔拉蒙古自治州"
+          },
+          {
+            "CityID": "akesudiqu",
+            "CityName": "阿克苏地区"
+          },
+          {
+            "CityID": "kashidiqu",
+            "CityName": "喀什地区"
+          },
+          {
+            "CityID": "kezilesukeerkezizizhizhou",
+            "CityName": "克孜勒苏柯尔克孜自治州"
+          }]
+        },
+        {
+          "StationID": "zhejiangsheng",
+          "StationName": "浙江省",
+          "City": [{
+            "CityID": "zhoushanshi",
+            "CityName": "舟山市"
+          },
+          {
+            "CityID": "taizhoushi",
+            "CityName": "台州市"
+          },
+          {
+            "CityID": "lishuishi",
+            "CityName": "丽水市"
+          },
+          {
+            "CityID": "jiaxingshi",
+            "CityName": "嘉兴市"
+          },
+          {
+            "CityID": "wenzhoushi",
+            "CityName": "温州市"
+          },
+          {
+            "CityID": "huzhoushi",
+            "CityName": "湖州市"
+          },
+          {
+            "CityID": "jinhuashi",
+            "CityName": "金华市"
+          },
+          {
+            "CityID": "shaoxingshi",
+            "CityName": "绍兴市"
+          },
+          {
+            "CityID": "ningboshi",
+            "CityName": "宁波市"
+          },
+          {
+            "CityID": "hangzhoushi",
+            "CityName": "杭州市"
+          }]
+        },
+        {
+          "StationID": "fujiansheng",
+          "StationName": "福建省",
+          "City": [{
+            "CityID": "longyanshi",
+            "CityName": "龙岩市"
+          },
+          {
+            "CityID": "nanpingshi",
+            "CityName": "南平市"
+          },
+          {
+            "CityID": "ningdeshi",
+            "CityName": "宁德市"
+          },
+          {
+            "CityID": "zhangzhoushi",
+            "CityName": "漳州市"
+          },
+          {
+            "CityID": "putianshi",
+            "CityName": "莆田市"
+          },
+          {
+            "CityID": "quanzhoushi",
+            "CityName": "泉州市"
+          },
+          {
+            "CityID": "xiamenshi",
+            "CityName": "厦门市"
+          },
+          {
+            "CityID": "sanmingshi",
+            "CityName": "三明市"
+          },
+          {
+            "CityID": "fuzhoushi",
+            "CityName": "福州市"
+          }]
+        },
+        {
+          "StationID": "sichuansheng",
+          "StationName": "四川省",
+          "City": [{
+            "CityID": "suiningshi",
+            "CityName": "遂宁市"
+          },
+          {
+            "CityID": "guangyuanshi",
+            "CityName": "广元市"
+          },
+          {
+            "CityID": "neijiangshi",
+            "CityName": "内江市"
+          },
+          {
+            "CityID": "nanchongshi",
+            "CityName": "南充市"
+          },
+          {
+            "CityID": "leshanshi",
+            "CityName": "乐山市"
+          },
+          {
+            "CityID": "panzhihuashi",
+            "CityName": "攀枝花市"
+          },
+          {
+            "CityID": "zigongshi",
+            "CityName": "自贡市"
+          },
+          {
+            "CityID": "mianyangshi",
+            "CityName": "绵阳市"
+          },
+          {
+            "CityID": "deyangshi",
+            "CityName": "德阳市"
+          },
+          {
+            "CityID": "ziyangshi",
+            "CityName": "资阳市"
+          },
+          {
+            "CityID": "bazhongshi",
+            "CityName": "巴中市"
+          },
+          {
+            "CityID": "abacangzuqiangzuzizhizhou",
+            "CityName": "阿坝藏族羌族自治州"
+          },
+          {
+            "CityID": "liangshanyizuzizhizhou",
+            "CityName": "凉山彝族自治州"
+          },
+          {
+            "CityID": "ganzicangzuzizhizhou",
+            "CityName": "甘孜藏族自治州"
+          },
+          {
+            "CityID": "yibinshi",
+            "CityName": "宜宾市"
+          },
+          {
+            "CityID": "meishanshi",
+            "CityName": "眉山市"
+          },
+          {
+            "CityID": "guanganshi",
+            "CityName": "广安市"
+          },
+          {
+            "CityID": "yaanshi",
+            "CityName": "雅安市"
+          },
+          {
+            "CityID": "dazhoushi",
+            "CityName": "达州市"
+          },
+          {
+            "CityID": "chengdushi",
+            "CityName": "成都市"
+          }]
+        },
+        {
+          "StationID": "yunnansheng",
+          "StationName": "云南省",
+          "City": [{
+            "CityID": "nujianglisuzuzizhizhou",
+            "CityName": "怒江傈僳族自治州"
+          },
+          {
+            "CityID": "dehongdaizujingpozuzizhizhou",
+            "CityName": "德宏傣族景颇族自治州"
+          },
+          {
+            "CityID": "diqingcangzuzizhizhou",
+            "CityName": "迪庆藏族自治州"
+          },
+          {
+            "CityID": "dalibaizuzizhizhou",
+            "CityName": "大理白族自治州"
+          },
+          {
+            "CityID": "qujingshi",
+            "CityName": "曲靖市"
+          },
+          {
+            "CityID": "kunmingshi",
+            "CityName": "昆明市"
+          },
+          {
+            "CityID": "chuxiongyizuzizhizhou",
+            "CityName": "楚雄彝族自治州"
+          },
+          {
+            "CityID": "lincangshi",
+            "CityName": "临沧市"
+          },
+          {
+            "CityID": "honghehanizuyizuzizhizhou",
+            "CityName": "红河哈尼族彝族自治州"
+          },
+          {
+            "CityID": "xishuangbannadaizuzizhizhou",
+            "CityName": "西双版纳傣族自治州"
+          },
+          {
+            "CityID": "wenshanzhuangzumiaozuzizhizhou",
+            "CityName": "文山壮族苗族自治州"
+          },
+          {
+            "CityID": "baoshanshi",
+            "CityName": "保山市"
+          },
+          {
+            "CityID": "yuxishi",
+            "CityName": "玉溪市"
+          },
+          {
+            "CityID": "zhaotongshi",
+            "CityName": "昭通市"
+          },
+          {
+            "CityID": "puershi",
+            "CityName": "普洱市"
+          },
+          {
+            "CityID": "lijiangshi",
+            "CityName": "丽江市"
+          }]
+        },
+        {
+          "StationID": "liaoningsheng",
+          "StationName": "辽宁省",
+          "City": [{
+            "CityID": "fushunshi",
+            "CityName": "抚顺市"
+          },
+          {
+            "CityID": "anshanshi",
+            "CityName": "鞍山市"
+          },
+          {
+            "CityID": "benxishi",
+            "CityName": "本溪市"
+          },
+          {
+            "CityID": "jinzhoushi",
+            "CityName": "锦州市"
+          },
+          {
+            "CityID": "dandongshi",
+            "CityName": "丹东市"
+          },
+          {
+            "CityID": "dalianshi",
+            "CityName": "大连市"
+          },
+          {
+            "CityID": "shenyangshi",
+            "CityName": "沈阳市"
+          },
+          {
+            "CityID": "yingkoushi",
+            "CityName": "营口市"
+          },
+          {
+            "CityID": "huludaoshi",
+            "CityName": "葫芦岛市"
+          },
+          {
+            "CityID": "liaoyangshi",
+            "CityName": "辽阳市"
+          },
+          {
+            "CityID": "fuxinshi",
+            "CityName": "阜新市"
+          },
+          {
+            "CityID": "panjinshi",
+            "CityName": "盘锦市"
+          },
+          {
+            "CityID": "chaoyangshi",
+            "CityName": "朝阳市"
+          },
+          {
+            "CityID": "tielingshi",
+            "CityName": "铁岭市"
+          }]
+        },
+        {
+          "StationID": "ningxiahuizuzizhiqu",
+          "StationName": "宁夏回族自治区",
+          "City": [{
+            "CityID": "shizuishanshi",
+            "CityName": "石嘴山市"
+          },
+          {
+            "CityID": "yinchuanshi",
+            "CityName": "银川市"
+          },
+          {
+            "CityID": "wuzhongshi",
+            "CityName": "吴忠市"
+          },
+          {
+            "CityID": "zhongweishi",
+            "CityName": "中卫市"
+          },
+          {
+            "CityID": "guyuanshi",
+            "CityName": "固原市"
+          }]
+        },
+        {
+          "StationID": "heilongjiangsheng",
+          "StationName": "黑龙江省",
+          "City": [{
+            "CityID": "daxinganlingdiqu",
+            "CityName": "大兴安岭地区"
+          },
+          {
+            "CityID": "suihuashi",
+            "CityName": "绥化市"
+          },
+          {
+            "CityID": "jiamusishi",
+            "CityName": "佳木斯市"
+          },
+          {
+            "CityID": "yichunshi",
+            "CityName": "宜春市"
+          },
+          {
+            "CityID": "qitaiheshi",
+            "CityName": "七台河市"
+          },
+          {
+            "CityID": "heiheshi",
+            "CityName": "黑河市"
+          },
+          {
+            "CityID": "mudanjiangshi",
+            "CityName": "牡丹江市"
+          },
+          {
+            "CityID": "daqingshi",
+            "CityName": "大庆市"
+          },
+          {
+            "CityID": "qiqihaershi",
+            "CityName": "齐齐哈尔市"
+          },
+          {
+            "CityID": "haerbinshi",
+            "CityName": "哈尔滨市"
+          },
+          {
+            "CityID": "jixishi",
+            "CityName": "鸡西市"
+          },
+          {
+            "CityID": "shuangyashanshi",
+            "CityName": "双鸭山市"
+          },
+          {
+            "CityID": "hegangshi",
+            "CityName": "鹤岗市"
+          }]
+        },
+        {
+          "StationID": "hainansheng",
+          "StationName": "海南省",
+          "City": [{
+            "CityID": "haikoushi",
+            "CityName": "海口市"
+          },
+          {
+            "CityID": "shengzhixiaxianjixingzhengdanwei",
+            "CityName": "省直辖县级行政单位"
+          },
+          {
+            "CityID": "sanyashi",
+            "CityName": "三亚市"
+          }]
+        },
+        {
+          "StationID": "xizangzizhiqu",
+          "StationName": "西藏自治区",
+          "City": [{
+            "CityID": "rikazediqu",
+            "CityName": "日喀则地区"
+          },
+          {
+            "CityID": "shannandiqu",
+            "CityName": "山南地区"
+          },
+          {
+            "CityID": "naqudiqu",
+            "CityName": "那曲地区"
+          },
+          {
+            "CityID": "linzhidiqu",
+            "CityName": "林芝地区"
+          },
+          {
+            "CityID": "alidiqu",
+            "CityName": "阿里地区"
+          },
+          {
+            "CityID": "changdudiqu",
+            "CityName": "昌都地区"
+          },
+          {
+            "CityID": "lasashi",
+            "CityName": "拉萨市"
+          }]
+        },
+        {
+          "StationID": "qinghaisheng",
+          "StationName": "青海省",
+          "City": [{
+            "CityID": "haiximengguzucangzuzizhizhou",
+            "CityName": "海西蒙古族藏族自治州"
+          },
+          {
+            "CityID": "huangnancangzuzizhizhou",
+            "CityName": "黄南藏族自治州"
+          },
+          {
+            "CityID": "haibeicangzuzizhizhou",
+            "CityName": "海北藏族自治州"
+          },
+          {
+            "CityID": "hainancangzuzizhizhou",
+            "CityName": "海南藏族自治州"
+          },
+          {
+            "CityID": "yushucangzuzizhizhou",
+            "CityName": "玉树藏族自治州"
+          },
+          {
+            "CityID": "guoluocangzuzizhizhou",
+            "CityName": "果洛藏族自治州"
+          },
+          {
+            "CityID": "haidongdiqu",
+            "CityName": "海东地区"
+          },
+          {
+            "CityID": "xiningshi",
+            "CityName": "西宁市"
+          }]
+        },
+        {
+          "StationID": "gansusheng",
+          "StationName": "甘肃省",
+          "City": [{
+            "CityID": "lanzhoushi",
+            "CityName": "兰州市"
+          },
+          {
+            "CityID": "pingliangshi",
+            "CityName": "平凉市"
+          },
+          {
+            "CityID": "zhangyeshi",
+            "CityName": "张掖市"
+          },
+          {
+            "CityID": "jiuquanshi",
+            "CityName": "酒泉市"
+          },
+          {
+            "CityID": "dingxishi",
+            "CityName": "定西市"
+          },
+          {
+            "CityID": "qingyangshi",
+            "CityName": "庆阳市"
+          },
+          {
+            "CityID": "jinchangshi",
+            "CityName": "金昌市"
+          },
+          {
+            "CityID": "jiayuguanshi",
+            "CityName": "嘉峪关市"
+          },
+          {
+            "CityID": "baiyinshi",
+            "CityName": "白银市"
+          },
+          {
+            "CityID": "wuweishi",
+            "CityName": "武威市"
+          },
+          {
+            "CityID": "tianshuishi",
+            "CityName": "天水市"
+          },
+          {
+            "CityID": "linxiahuizuzizhizhou",
+            "CityName": "临夏回族自治州"
+          },
+          {
+            "CityID": "longnanshi",
+            "CityName": "陇南市"
+          },
+          {
+            "CityID": "gannancangzuzizhizhou",
+            "CityName": "甘南藏族自治州"
+          }]
+        },
+        {
+          "StationID": "jilinsheng",
+          "StationName": "吉林省",
+          "City": [{
+            "CityID": "changchunshi",
+            "CityName": "长春市"
+          },
+          {
+            "CityID": "jilinshi",
+            "CityName": "吉林市"
+          },
+          {
+            "CityID": "liaoyuanshi",
+            "CityName": "辽源市"
+          },
+          {
+            "CityID": "sipingshi",
+            "CityName": "四平市"
+          },
+          {
+            "CityID": "baishanshi",
+            "CityName": "白山市"
+          },
+          {
+            "CityID": "tonghuashi",
+            "CityName": "通化市"
+          },
+          {
+            "CityID": "songyuanshi",
+            "CityName": "松原市"
+          },
+          {
+            "CityID": "yanbianchaoxianzuzizhizhou",
+            "CityName": "延边朝鲜族自治州"
+          },
+          {
+            "CityID": "baichengshi",
+            "CityName": "白城市"
+          }]
+        },
+        {
+          "StationID": "guangxizhuangzuzizhiqu",
+          "StationName": "广西壮族自治区",
+          "City": [{
+            "CityID": "beihaishi",
+            "CityName": "北海市"
+          },
+          {
+            "CityID": "wuzhoushi",
+            "CityName": "梧州市"
+          },
+          {
+            "CityID": "fangchenggangshi",
+            "CityName": "防城港市"
+          },
+          {
+            "CityID": "guigangshi",
+            "CityName": "贵港市"
+          },
+          {
+            "CityID": "qinzhoushi",
+            "CityName": "钦州市"
+          },
+          {
+            "CityID": "nanningshi",
+            "CityName": "南宁市"
+          },
+          {
+            "CityID": "guilinshi",
+            "CityName": "桂林市"
+          },
+          {
+            "CityID": "liuzhoushi",
+            "CityName": "柳州市"
+          },
+          {
+            "CityID": "chongzuoshi",
+            "CityName": "崇左市"
+          },
+          {
+            "CityID": "baiseshi",
+            "CityName": "百色市"
+          },
+          {
+            "CityID": "yulinshi",
+            "CityName": "玉林市"
+          },
+          {
+            "CityID": "hezhoushi",
+            "CityName": "贺州市"
+          },
+          {
+            "CityID": "laibinshi",
+            "CityName": "来宾市"
+          },
+          {
+            "CityID": "hechishi",
+            "CityName": "河池市"
+          }]
+        }]
+      },
+      {
+        "CountryID": "United States",
+        "CountryName": "美国",
+        "Station": [{
+          "StationID": "Indiana",
+          "StationName": "印第安那",
+          "City": [{
+            "CityID": "Indianapolis",
+            "CityName": "印第安纳波利斯"
+          },
+          {
+            "CityID": "Evansville",
+            "CityName": "埃文斯维尔"
+          },
+          {
+            "CityID": "Fort Wayne",
+            "CityName": "韦恩堡"
+          }]
+        },
+        {
+          "StationID": "Utah",
+          "StationName": "犹他",
+          "City": [{
+            "CityID": "Eugene1",
+            "CityName": "欧仁"
+          },
+          {
+            "CityID": "Ogden",
+            "CityName": "奥格登"
+          },
+          {
+            "CityID": "Redden",
+            "CityName": "雷登"
+          },
+          {
+            "CityID": "West Valley City",
+            "CityName": "西瓦利城"
+          },
+          {
+            "CityID": "Salt Lake City",
+            "CityName": "盐湖城"
+          },
+          {
+            "CityID": "Park City",
+            "CityName": "帕克城"
+          },
+          {
+            "CityID": "Provo",
+            "CityName": "普罗沃"
+          },
+          {
+            "CityID": "St. Georges",
+            "CityName": "圣乔治"
+          }]
+        },
+        {
+          "StationID": "Georgia",
+          "StationName": "佐治亚",
+          "City": [{
+            "CityID": "Macon",
+            "CityName": "梅肯"
+          },
+          {
+            "CityID": "Savannah",
+            "CityName": "沙瓦纳"
+          },
+          {
+            "CityID": "Columbus1",
+            "CityName": "哥伦布"
+          },
+          {
+            "CityID": "Augusta",
+            "CityName": "奥古斯塔"
+          },
+          {
+            "CityID": "Atlanta",
+            "CityName": "亚特兰大"
+          }]
+        },
+        {
+          "StationID": "Wyoming",
+          "StationName": "怀俄明",
+          "City": [{
+            "CityID": "Laramie",
+            "CityName": "拉勒米"
+          },
+          {
+            "CityID": "Casper",
+            "CityName": "卡斯珀"
+          },
+          {
+            "CityID": "Sheridan",
+            "CityName": "谢里登"
+          },
+          {
+            "CityID": "Rock Springs",
+            "CityName": "罗克斯普林斯"
+          },
+          {
+            "CityID": "Cheyenne",
+            "CityName": "夏延"
+          },
+          {
+            "CityID": "Evanston",
+            "CityName": "埃文斯顿"
+          }]
+        },
+        {
+          "StationID": "District of Columbia",
+          "StationName": "哥伦比亚特区",
+          "City": {
+            "CityID": "District of Columbia",
+            "CityName": "哥伦比亚特区"
+          }
+        },
+        {
+          "StationID": "Washington",
+          "StationName": "华盛顿",
+          "City": [{
+            "CityID": "Spokane",
+            "CityName": "斯波坎"
+          },
+          {
+            "CityID": "Tacoma",
+            "CityName": "塔科马"
+          },
+          {
+            "CityID": "Seattle",
+            "CityName": "西雅图"
+          }]
+        },
+        {
+          "StationID": "California",
+          "StationName": "加利福尼亚",
+          "City": [{
+            "CityID": "San Diego",
+            "CityName": "圣迭戈"
+          },
+          {
+            "CityID": "Los Angeles",
+            "CityName": "洛杉矶"
+          },
+          {
+            "CityID": "San Francisco",
+            "CityName": "旧金山"
+          },
+          {
+            "CityID": "San Jose",
+            "CityName": "圣何塞"
+          }]
+        },
+        {
+          "StationID": "Florida",
+          "StationName": "佛罗里达",
+          "City": [{
+            "CityID": "Orlando",
+            "CityName": "奥兰多"
+          },
+          {
+            "CityID": "Cape Canaveral",
+            "CityName": "卡纳维尔角"
+          },
+          {
+            "CityID": "Jacksonville",
+            "CityName": "杰克逊维尔"
+          },
+          {
+            "CityID": "Key West",
+            "CityName": "基韦斯特"
+          },
+          {
+            "CityID": "Miami",
+            "CityName": "迈阿密"
+          },
+          {
+            "CityID": "St. Petersburg City",
+            "CityName": "圣彼德斯堡市"
+          },
+          {
+            "CityID": "Fort Lauderdale",
+            "CityName": "罗德岱堡"
+          },
+          {
+            "CityID": "Tampa",
+            "CityName": "坦帕"
+          },
+          {
+            "CityID": "Tallahassee",
+            "CityName": "塔拉哈西"
+          }]
+        },
+        {
+          "StationID": "Vermont",
+          "StationName": "佛蒙特",
+          "City": [{
+            "CityID": "Burlington",
+            "CityName": "伯灵顿"
+          },
+          {
+            "CityID": "Rutland",
+            "CityName": "拉特兰"
+          },
+          {
+            "CityID": "South Burlington",
+            "CityName": "南伯灵顿"
+          }]
+        },
+        {
+          "StationID": "Kansas",
+          "StationName": "堪萨斯",
+          "City": [{
+            "CityID": "Wichita",
+            "CityName": "威奇托"
+          },
+          {
+            "CityID": "Manhattan",
+            "CityName": "曼哈顿"
+          },
+          {
+            "CityID": "Topeka",
+            "CityName": "托皮卡"
+          },
+          {
+            "CityID": "Hutchinson",
+            "CityName": "哈钦森"
+          },
+          {
+            "CityID": "Overland Park",
+            "CityName": "奥弗兰公园"
+          },
+          {
+            "CityID": "Lawrence",
+            "CityName": "劳伦斯"
+          },
+          {
+            "CityID": "Leavenworth",
+            "CityName": "莱文沃思"
+          },
+          {
+            "CityID": "Kansas City",
+            "CityName": "堪萨斯城"
+          },
+          {
+            "CityID": "Abilene",
+            "CityName": "阿比林"
+          }]
+        },
+        {
+          "StationID": "Kentucky",
+          "StationName": "肯塔基",
+          "City": [{
+            "CityID": "Louisville",
+            "CityName": "路易斯维尔"
+          },
+          {
+            "CityID": "Lexington",
+            "CityName": "列克星敦"
+          },
+          {
+            "CityID": "Owensboro",
+            "CityName": "欧文斯伯勒"
+          }]
+        },
+        {
+          "StationID": "Colorado",
+          "StationName": "科罗拉多",
+          "City": [{
+            "CityID": "Aurora",
+            "CityName": "奥罗拉"
+          },
+          {
+            "CityID": "Fort Collins",
+            "CityName": "柯林斯堡"
+          },
+          {
+            "CityID": "Denver",
+            "CityName": "丹佛"
+          },
+          {
+            "CityID": "Grand Junction",
+            "CityName": "大章克申"
+          },
+          {
+            "CityID": "Vail",
+            "CityName": "韦尔"
+          },
+          {
+            "CityID": "Colorado Springs",
+            "CityName": "科罗拉多斯普林斯"
+          },
+          {
+            "CityID": "Boulder",
+            "CityName": "博尔德"
+          },
+          {
+            "CityID": "Aspen",
+            "CityName": "阿斯彭"
+          }]
+        },
+        {
+          "StationID": "Rhode Island",
+          "StationName": "罗德岛",
+          "City": [{
+            "CityID": "Newport",
+            "CityName": "纽波特"
+          },
+          {
+            "CityID": "Cranston",
+            "CityName": "克兰斯顿"
+          },
+          {
+            "CityID": "Woonsocket",
+            "CityName": "文索基特"
+          },
+          {
+            "CityID": "Westley",
+            "CityName": "韦斯特利"
+          },
+          {
+            "CityID": "Warwick",
+            "CityName": "沃威克"
+          },
+          {
+            "CityID": "Providence",
+            "CityName": "普罗维登斯"
+          },
+          {
+            "CityID": "Pawtucket",
+            "CityName": "波塔基特"
+          }]
+        },
+        {
+          "StationID": "Louisiana",
+          "StationName": "路易斯安那",
+          "City": [{
+            "CityID": "Shreveport",
+            "CityName": "什里夫波特"
+          },
+          {
+            "CityID": "Baton Rouge",
+            "CityName": "巴吞鲁日"
+          },
+          {
+            "CityID": "New Orleans",
+            "CityName": "新奥尔良"
+          }]
+        },
+        {
+          "StationID": "Connecticut",
+          "StationName": "康涅狄格",
+          "City": [{
+            "CityID": "Hartford",
+            "CityName": "哈特福德"
+          },
+          {
+            "CityID": "Greenwich",
+            "CityName": "格林尼治"
+          },
+          {
+            "CityID": "Westport",
+            "CityName": "韦斯特波特"
+          },
+          {
+            "CityID": "Middleton",
+            "CityName": "米德尔顿"
+          },
+          {
+            "CityID": "New Haven",
+            "CityName": "纽黑文"
+          },
+          {
+            "CityID": "Darien",
+            "CityName": "达里恩"
+          },
+          {
+            "CityID": "Bridgeport",
+            "CityName": "布里奇波特"
+          },
+          {
+            "CityID": "New Britain",
+            "CityName": "新不列颠"
+          },
+          {
+            "CityID": "Waterbury",
+            "CityName": "沃特伯里"
+          }]
+        },
+        {
+          "StationID": "Iowa",
+          "StationName": "爱荷华",
+          "City": [{
+            "CityID": "Des Moines",
+            "CityName": "得梅因"
+          },
+          {
+            "CityID": "Davenport",
+            "CityName": "达文波特"
+          },
+          {
+            "CityID": "Cedar Rapids",
+            "CityName": "锡达拉皮兹"
+          }]
+        },
+        {
+          "StationID": "North Carolina",
+          "StationName": "北卡罗来纳",
+          "City": [{
+            "CityID": "Asheville",
+            "CityName": "艾许维尔"
+          },
+          {
+            "CityID": "The Luoliduhan metropolitan area",
+            "CityName": "洛利杜罕都会区"
+          },
+          {
+            "CityID": "Charlotte",
+            "CityName": "夏洛特"
+          },
+          {
+            "CityID": "Greensboro",
+            "CityName": "格林斯伯勒"
+          },
+          {
+            "CityID": "Durham",
+            "CityName": "杜罕"
+          },
+          {
+            "CityID": "Raleigh",
+            "CityName": "罗利"
+          },
+          {
+            "CityID": "Chapel Hill",
+            "CityName": "教堂山"
+          }]
+        },
+        {
+          "StationID": "North Dakota",
+          "StationName": "北达科他",
+          "City": [{
+            "CityID": "Minot",
+            "CityName": "迈诺特"
+          },
+          {
+            "CityID": "Fargo",
+            "CityName": "法戈"
+          },
+          {
+            "CityID": "Grand Forks",
+            "CityName": "大福克斯"
+          },
+          {
+            "CityID": "Bismarck",
+            "CityName": "俾斯麦"
+          }]
+        },
+        {
+          "StationID": "Alabama",
+          "StationName": "阿拉巴马",
+          "City": [{
+            "CityID": "Montgomery",
+            "CityName": "蒙哥马利"
+          },
+          {
+            "CityID": "Birmingham",
+            "CityName": "伯明罕"
+          },
+          {
+            "CityID": "Mobile",
+            "CityName": "莫比尔"
+          }]
+        },
+        {
+          "StationID": "Arkansas",
+          "StationName": "阿肯色",
+          "City": [{
+            "CityID": "Fort Smith",
+            "CityName": "史密斯堡"
+          },
+          {
+            "CityID": "Little Rock",
+            "CityName": "小石城"
+          },
+          {
+            "CityID": "Fayetteville",
+            "CityName": "费耶特维尔"
+          }]
+        },
+        {
+          "StationID": "Idaho",
+          "StationName": "爱达荷",
+          "City": [{
+            "CityID": "Lewiston",
+            "CityName": "刘易斯顿"
+          },
+          {
+            "CityID": "Blackfoot",
+            "CityName": "布莱克富特"
+          },
+          {
+            "CityID": "Coeur dAlene",
+            "CityName": "科达伦"
+          },
+          {
+            "CityID": "Ketchum",
+            "CityName": "岂彻姆"
+          },
+          {
+            "CityID": "SunValley",
+            "CityName": "森瓦利"
+          },
+          {
+            "CityID": "American Rapids",
+            "CityName": "亚美利加瀑布城"
+          },
+          {
+            "CityID": "Moscow",
+            "CityName": "莫斯科"
+          },
+          {
+            "CityID": "Nampa",
+            "CityName": "楠帕"
+          },
+          {
+            "CityID": "Murphy",
+            "CityName": "墨菲"
+          },
+          {
+            "CityID": "Idaho Falls",
+            "CityName": "爱达荷福尔斯"
+          },
+          {
+            "CityID": "Boise",
+            "CityName": "博伊西"
+          },
+          {
+            "CityID": "Pocatello",
+            "CityName": "波卡特洛"
+          }]
+        },
+        {
+          "StationID": "Alaska",
+          "StationName": "阿拉斯加",
+          "City": [{
+            "CityID": "Juneau",
+            "CityName": "朱诺"
+          },
+          {
+            "CityID": "Anchorage",
+            "CityName": "安克雷奇"
+          },
+          {
+            "CityID": "Fairbanks",
+            "CityName": "费尔班克斯"
+          }]
+        },
+        {
+          "StationID": "Oklahoma",
+          "StationName": "俄克拉荷马",
+          "City": [{
+            "CityID": "Oklahoma City",
+            "CityName": "俄克拉荷马城"
+          },
+          {
+            "CityID": "Tulsa",
+            "CityName": "塔尔萨"
+          },
+          {
+            "CityID": "Norman",
+            "CityName": "诺曼"
+          }]
+        },
+        {
+          "StationID": "Ohio",
+          "StationName": "俄亥俄",
+          "City": [{
+            "CityID": "Cleveland",
+            "CityName": "克利夫兰"
+          },
+          {
+            "CityID": "Columbus",
+            "CityName": "哥伦布"
+          },
+          {
+            "CityID": "Dayton",
+            "CityName": "代顿"
+          },
+          {
+            "CityID": "Cincinnati",
+            "CityName": "辛辛那提"
+          },
+          {
+            "CityID": "Toledo",
+            "CityName": "托莱多"
+          }]
+        },
+        {
+          "StationID": "Oregon",
+          "StationName": "俄勒冈",
+          "City": [{
+            "CityID": "Salem",
+            "CityName": "塞勒姆"
+          },
+          {
+            "CityID": "Medford",
+            "CityName": "梅德福"
+          },
+          {
+            "CityID": "Coos Bay",
+            "CityName": "库斯贝"
+          },
+          {
+            "CityID": "Springfield",
+            "CityName": "斯普林菲尔德"
+          },
+          {
+            "CityID": "Eugene",
+            "CityName": "尤金"
+          },
+          {
+            "CityID": "St. Helens",
+            "CityName": "圣海伦斯"
+          },
+          {
+            "CityID": "Tillamook",
+            "CityName": "蒂拉穆克"
+          },
+          {
+            "CityID": "Grants Pass",
+            "CityName": "格兰茨帕斯"
+          },
+          {
+            "CityID": "Corvallis",
+            "CityName": "科瓦利斯"
+          },
+          {
+            "CityID": "Crater Lake",
+            "CityName": "火山口湖"
+          },
+          {
+            "CityID": "Hood River",
+            "CityName": "胡德里弗"
+          },
+          {
+            "CityID": "Bend",
+            "CityName": "本德"
+          },
+          {
+            "CityID": "Dallas1",
+            "CityName": "达拉斯"
+          },
+          {
+            "CityID": "Dals",
+            "CityName": "达尔斯"
+          },
+          {
+            "CityID": "Portland",
+            "CityName": "波特兰"
+          }]
+        },
+        {
+          "StationID": "Pennsylvania",
+          "StationName": "宾夕法尼亚",
+          "City": [{
+            "CityID": "Philadelphia",
+            "CityName": "费城"
+          },
+          {
+            "CityID": "Allentown",
+            "CityName": "阿伦敦"
+          },
+          {
+            "CityID": "Pittsburgh",
+            "CityName": "匹兹堡"
+          }]
+        },
+        {
+          "StationID": "Texas",
+          "StationName": "德克萨斯",
+          "City": [{
+            "CityID": "Austin",
+            "CityName": "奥斯汀"
+          },
+          {
+            "CityID": "El Paso",
+            "CityName": "埃尔帕索"
+          },
+          {
+            "CityID": "Dallas",
+            "CityName": "达拉斯"
+          },
+          {
+            "CityID": "Gepasiji Christi",
+            "CityName": "哥帕斯基斯蒂"
+          },
+          {
+            "CityID": "Houston",
+            "CityName": "休斯敦"
+          },
+          {
+            "CityID": "San Antonio",
+            "CityName": "圣安东尼奥"
+          },
+          {
+            "CityID": "Laredo",
+            "CityName": "拉雷多"
+          },
+          {
+            "CityID": "Cross-Weston",
+            "CityName": "交维斯顿"
+          },
+          {
+            "CityID": "Mel Allen",
+            "CityName": "麦亚伦"
+          }]
+        },
+        {
+          "StationID": "Wisconsin",
+          "StationName": "威斯康星",
+          "City": [{
+            "CityID": "Ouke Lai Lovell",
+            "CityName": "欧克莱尓"
+          },
+          {
+            "CityID": "Wausau",
+            "CityName": "沃索"
+          },
+          {
+            "CityID": "Sheboygan",
+            "CityName": "希博伊根"
+          },
+          {
+            "CityID": "Madison",
+            "CityName": "迈迪逊"
+          },
+          {
+            "CityID": "Milwaukee",
+            "CityName": "密尔沃基"
+          },
+          {
+            "CityID": "Appleton meal",
+            "CityName": "阿普尓顿"
+          },
+          {
+            "CityID": "La Crosse",
+            "CityName": "拉克罗斯"
+          },
+          {
+            "CityID": "Manitowoc",
+            "CityName": "马尼托沃克"
+          },
+          {
+            "CityID": "Racine",
+            "CityName": "拉辛"
+          },
+          {
+            "CityID": "Oshkosh",
+            "CityName": "奥什科什"
+          },
+          {
+            "CityID": "Green Bay",
+            "CityName": "格林贝"
+          },
+          {
+            "CityID": "Kenosha",
+            "CityName": "基诺沙"
+          }]
+        },
+        {
+          "StationID": "West Virginia",
+          "StationName": "西佛吉尼亚",
+          "City": [{
+            "CityID": "Parkersburg",
+            "CityName": "帕克斯堡"
+          },
+          {
+            "CityID": "Charleston1",
+            "CityName": "查尔斯顿"
+          },
+          {
+            "CityID": "Huntington",
+            "CityName": "亨廷顿"
+          }]
+        },
+        {
+          "StationID": "Virginia",
+          "StationName": "维吉尼亚",
+          "City": [{
+            "CityID": "Norfolk",
+            "CityName": "诺福克"
+          },
+          {
+            "CityID": "Chesapeake",
+            "CityName": "切萨皮克"
+          },
+          {
+            "CityID": "Virginia Beach",
+            "CityName": "弗吉尼亚比奇"
+          }]
+        },
+        {
+          "StationID": "Tennessee",
+          "StationName": "田纳西",
+          "City": [{
+            "CityID": "Chattanooga",
+            "CityName": "查塔努加"
+          },
+          {
+            "CityID": "Kingsport",
+            "CityName": "金斯波特"
+          },
+          {
+            "CityID": "Wembley Stowe",
+            "CityName": "布利斯托"
+          },
+          {
+            "CityID": "Knoxville",
+            "CityName": "诺克斯维尔"
+          },
+          {
+            "CityID": "Three Districts",
+            "CityName": "三城区"
+          },
+          {
+            "CityID": "Memphis",
+            "CityName": "孟菲斯"
+          },
+          {
+            "CityID": "Nashville",
+            "CityName": "纳什维尔"
+          },
+          {
+            "CityID": "Spring Hill",
+            "CityName": "斯普林希尔"
+          },
+          {
+            "CityID": "Smyrna",
+            "CityName": "士麦那"
+          },
+          {
+            "CityID": "Johnson City",
+            "CityName": "约翰逊城"
+          }]
+        },
+        {
+          "StationID": "Delaware",
+          "StationName": "特拉华",
+          "City": [{
+            "CityID": "Wilmington",
+            "CityName": "威明顿"
+          },
+          {
+            "CityID": "Dover",
+            "CityName": "多佛"
+          },
+          {
+            "CityID": "Newark",
+            "CityName": "纽瓦克"
+          }]
+        },
+        {
+          "StationID": "Illinois",
+          "StationName": "伊利诺斯",
+          "City": [{
+            "CityID": "DeKalb",
+            "CityName": "迪卡尔布"
+          },
+          {
+            "CityID": "Dikai held",
+            "CityName": "迪凯持"
+          },
+          {
+            "CityID": "Aurora1",
+            "CityName": "奥罗拉"
+          },
+          {
+            "CityID": "Bloomington",
+            "CityName": "布卢明顿"
+          },
+          {
+            "CityID": "Danville",
+            "CityName": "丹维尓"
+          },
+          {
+            "CityID": "Carbondale",
+            "CityName": "卡本代尔"
+          },
+          {
+            "CityID": "Rock Island",
+            "CityName": "罗克艾兰"
+          },
+          {
+            "CityID": "East St. Louis",
+            "CityName": "东圣路易斯"
+          },
+          {
+            "CityID": "Urbana - Hong",
+            "CityName": "厄巴纳-香"
+          },
+          {
+            "CityID": "Galesburg",
+            "CityName": "盖尔斯堡"
+          },
+          {
+            "CityID": "Alton",
+            "CityName": "奥尔顿"
+          },
+          {
+            "CityID": "Centralia",
+            "CityName": "森特勒利亚"
+          },
+          {
+            "CityID": "Springfield111",
+            "CityName": "斯普林菲尔德"
+          },
+          {
+            "CityID": "Rockford",
+            "CityName": "罗克福德"
+          },
+          {
+            "CityID": "Snow Summerside Seoul",
+            "CityName": "诺黙尔"
+          },
+          {
+            "CityID": "Peoria",
+            "CityName": "皮奥里亚"
+          },
+          {
+            "CityID": "Wal-its root",
+            "CityName": "沃其根"
+          },
+          {
+            "CityID": "Chicago",
+            "CityName": "芝加哥"
+          }]
+        },
+        {
+          "StationID": "New Hampshire",
+          "StationName": "新罕布什尔",
+          "City": [{
+            "CityID": "Nashua",
+            "CityName": "纳舒厄"
+          },
+          {
+            "CityID": "Manchester",
+            "CityName": "曼彻斯特"
+          },
+          {
+            "CityID": "Concord",
+            "CityName": "康科德"
+          }]
+        },
+        {
+          "StationID": "Hawaii",
+          "StationName": "夏威夷",
+          "City": [{
+            "CityID": "Kailua",
+            "CityName": "凯卢阿"
+          },
+          {
+            "CityID": "Honolulu",
+            "CityName": "檀香山"
+          },
+          {
+            "CityID": "Hilo",
+            "CityName": "希洛"
+          }]
+        },
+        {
+          "StationID": "Arizona",
+          "StationName": "亚利桑那",
+          "City": [{
+            "CityID": "Mesa",
+            "CityName": "梅萨"
+          },
+          {
+            "CityID": "Shi Kazi Lauderdale",
+            "CityName": "史卡兹代尔"
+          },
+          {
+            "CityID": "Phoenix",
+            "CityName": "凤凰城"
+          },
+          {
+            "CityID": "Glendale",
+            "CityName": "格兰代尔"
+          },
+          {
+            "CityID": "Templeton",
+            "CityName": "坦普"
+          },
+          {
+            "CityID": "Tucson",
+            "CityName": "图森"
+          },
+          {
+            "CityID": "Yuma",
+            "CityName": "优玛"
+          }]
+        },
+        {
+          "StationID": "New Jersey",
+          "StationName": "新泽西",
+          "City": [{
+            "CityID": "Patterson",
+            "CityName": "帕特森"
+          },
+          {
+            "CityID": "Jersey City",
+            "CityName": "泽西城"
+          },
+          {
+            "CityID": "Newark1",
+            "CityName": "纽瓦克"
+          }]
+        },
+        {
+          "StationID": "New Mexico",
+          "StationName": "新墨西哥",
+          "City": [{
+            "CityID": "Albuquerque",
+            "CityName": "阿尔伯克基"
+          },
+          {
+            "CityID": "Las Cruces",
+            "CityName": "拉斯克鲁塞斯"
+          },
+          {
+            "CityID": "Roswell",
+            "CityName": "罗斯韦尔"
+          },
+          {
+            "CityID": "Santa Fe",
+            "CityName": "圣菲"
+          }]
+        },
+        {
+          "StationID": "New York",
+          "StationName": "纽约",
+          "City": [{
+            "CityID": "Rochester1",
+            "CityName": "罗切斯特"
+          },
+          {
+            "CityID": "Buffalo",
+            "CityName": "布法罗"
+          },
+          {
+            "CityID": "New York City",
+            "CityName": "纽约市"
+          }]
+        },
+        {
+          "StationID": "Mississippi",
+          "StationName": "密西西比",
+          "City": [{
+            "CityID": "Biloxi",
+            "CityName": "比洛克西"
+          },
+          {
+            "CityID": "Vicksburg",
+            "CityName": "维克斯堡"
+          },
+          {
+            "CityID": "Greenville",
+            "CityName": "格林维尔"
+          },
+          {
+            "CityID": "Gulfport",
+            "CityName": "格尔夫波特"
+          },
+          {
+            "CityID": "Hattiesburg",
+            "CityName": "哈蒂斯堡"
+          },
+          {
+            "CityID": "Meridian",
+            "CityName": "默里迪恩"
+          },
+          {
+            "CityID": "Jackson",
+            "CityName": "杰克逊"
+          }]
+        },
+        {
+          "StationID": "Michigan",
+          "StationName": "密歇根",
+          "City": [{
+            "CityID": "Ann Arbor",
+            "CityName": "安娜堡"
+          },
+          {
+            "CityID": "Battle Creek",
+            "CityName": "巴特尔克里克"
+          },
+          {
+            "CityID": "Grand Rapids",
+            "CityName": "大急流城"
+          },
+          {
+            "CityID": "Bay City",
+            "CityName": "贝城"
+          },
+          {
+            "CityID": "Saginaw",
+            "CityName": "萨吉诺"
+          },
+          {
+            "CityID": "Pang 菷 Senanayake",
+            "CityName": "庞菷亚克"
+          },
+          {
+            "CityID": "Sault Ste Marie",
+            "CityName": "苏圣玛丽"
+          },
+          {
+            "CityID": "Port Huron",
+            "CityName": "休伦港"
+          },
+          {
+            "CityID": "Warren",
+            "CityName": "沃伦"
+          },
+          {
+            "CityID": "Muskegon",
+            "CityName": "马斯基根"
+          },
+          {
+            "CityID": "Flint",
+            "CityName": "弗林特"
+          },
+          {
+            "CityID": "Wyandotte",
+            "CityName": "怀恩多特"
+          },
+          {
+            "CityID": "Dearborn",
+            "CityName": "迪尔伯恩"
+          },
+          {
+            "CityID": "Detroit",
+            "CityName": "底特律"
+          },
+          {
+            "CityID": "Lansing",
+            "CityName": "兰辛"
+          },
+          {
+            "CityID": "Calama Cho",
+            "CityName": "卡拉马袓"
+          }]
+        },
+        {
+          "StationID": "Maryland",
+          "StationName": "马里兰",
+          "City": [{
+            "CityID": "Baltimore",
+            "CityName": "巴尔的摩"
+          },
+          {
+            "CityID": "Rockville",
+            "CityName": "罗克维尔"
+          },
+          {
+            "CityID": "Gaithersburg",
+            "CityName": "盖瑟斯堡"
+          }]
+        },
+        {
+          "StationID": "Missouri",
+          "StationName": "密苏里",
+          "City": [{
+            "CityID": "Columbia",
+            "CityName": "哥伦比亚"
+          },
+          {
+            "CityID": "Springfield11",
+            "CityName": "斯普林菲尔德"
+          },
+          {
+            "CityID": "St. Louis",
+            "CityName": "圣路易斯"
+          },
+          {
+            "CityID": "Jefferson City",
+            "CityName": "杰佛逊市"
+          },
+          {
+            "CityID": "Kansas City1",
+            "CityName": "堪萨斯城"
+          }]
+        },
+        {
+          "StationID": "Montana",
+          "StationName": "蒙大拿",
+          "City": [{
+            "CityID": "Missoula",
+            "CityName": "米苏拉"
+          },
+          {
+            "CityID": "Great Falls",
+            "CityName": "大瀑布村"
+          },
+          {
+            "CityID": "Billund",
+            "CityName": "比灵斯"
+          }]
+        },
+        {
+          "StationID": "Massachusetts",
+          "StationName": "马萨诸塞",
+          "City": [{
+            "CityID": "Worcester",
+            "CityName": "伍斯特"
+          },
+          {
+            "CityID": "Springfield1",
+            "CityName": "斯普林菲尔德"
+          },
+          {
+            "CityID": "Boston",
+            "CityName": "波士顿"
+          }]
+        },
+        {
+          "StationID": "Nevada",
+          "StationName": "内华达",
+          "City": [{
+            "CityID": "Sparks",
+            "CityName": "斯帕克斯"
+          },
+          {
+            "CityID": "Reno",
+            "CityName": "里诺"
+          },
+          {
+            "CityID": "Virginia City",
+            "CityName": "弗吉尼亚城"
+          },
+          {
+            "CityID": "Elko",
+            "CityName": "埃尔科"
+          },
+          {
+            "CityID": "North Las Vegas",
+            "CityName": "北拉斯维加斯"
+          },
+          {
+            "CityID": "Las Vegas",
+            "CityName": "拉斯维加斯"
+          },
+          {
+            "CityID": "Henderson",
+            "CityName": "亨德森"
+          },
+          {
+            "CityID": "Carson City",
+            "CityName": "卡森城"
+          }]
+        },
+        {
+          "StationID": "South Carolina",
+          "StationName": "南卡罗来纳",
+          "City": [{
+            "CityID": "Columbia1",
+            "CityName": "哥伦比亚"
+          },
+          {
+            "CityID": "North Charleston",
+            "CityName": "北查尔斯顿"
+          },
+          {
+            "CityID": "Charleston",
+            "CityName": "查尔斯顿"
+          }]
+        },
+        {
+          "StationID": "South Dakota",
+          "StationName": "南达科他",
+          "City": [{
+            "CityID": "Aberdeen",
+            "CityName": "阿伯丁"
+          },
+          {
+            "CityID": "Sioux Falls",
+            "CityName": "苏福尔斯"
+          },
+          {
+            "CityID": "Rapid City",
+            "CityName": "拉皮德城"
+          }]
+        },
+        {
+          "StationID": "Maine",
+          "StationName": "缅因",
+          "City": [{
+            "CityID": "Portland1",
+            "CityName": "波特兰"
+          },
+          {
+            "CityID": "Lewiston1",
+            "CityName": "刘易斯顿"
+          },
+          {
+            "CityID": "Bangor",
+            "CityName": "班戈"
+          }]
+        },
+        {
+          "StationID": "Nebraska",
+          "StationName": "内布拉斯加",
+          "City": [{
+            "CityID": "Omaha",
+            "CityName": "奥马哈"
+          },
+          {
+            "CityID": "Bellevue",
+            "CityName": "贝尔维尤"
+          },
+          {
+            "CityID": "Lincoln",
+            "CityName": "林肯"
+          }]
+        },
+        {
+          "StationID": "Minnesota",
+          "StationName": "明尼苏达",
+          "City": [{
+            "CityID": "Sao Paulo",
+            "CityName": "圣保罗"
+          },
+          {
+            "CityID": "Minneapolis",
+            "CityName": "明尼阿波利斯"
+          },
+          {
+            "CityID": "Rochester",
+            "CityName": "罗切斯特"
+          }]
+        }]
+      }
+    ]
+  }
+}

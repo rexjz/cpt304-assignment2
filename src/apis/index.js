@@ -6,7 +6,7 @@ export function getChinaCities() {
   return axios.get(url)
 }
 
-const city_json_url = process.env.PUBLIC_URL + '/global_cities.json'
+const city_json_url = process.env.PUBLIC_URL + '/cities.json'
 
 export function getGlobalCities() {
   return axios.get(city_json_url)
