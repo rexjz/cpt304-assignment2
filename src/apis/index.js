@@ -71,3 +71,30 @@ export async function getHolidays(country_id) {
   const { data } = await axios.get(holiday_json_url)
   return data
 }
+
+const hotel_pool = [
+  {
+    hotel_name: 'good hotel',
+    room_type: 'twin',
+    price: 50
+  },
+  {
+    hotel_name: 'good hotel',
+    room_type: 'Double Room',
+    price: 60
+  },
+  {
+    hotel_name: 'nice hotel',
+    room_type: 'Double Room',
+    price: 42
+  },
+  {
+    hotel_name: 'good hotel',
+    room_type: 'Single Room',
+    price: 25
+  },
+]
+
+export async function getAccommodationInfo(time, city) {
+  return Promise.resolve(hotel_pool[getRandomInt(hotel_pool.length)])
+}

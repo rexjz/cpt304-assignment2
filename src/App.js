@@ -6,6 +6,7 @@ import { getWheather } from './apis';
 import { useState } from 'react';
 import HolidayViewer from './components/HolidayViewer'
 import AccommodationViewer from './components/AccommodationViewer'
+import { getAccommodationInfo } from "./apis"
 
 function App() {
   const [region, setRegion] = useState(undefined)
@@ -26,7 +27,8 @@ function App() {
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', marginLeft: '12px' }}>
             <WheatherViewer time={time} geo={region} datasource={getWheather} adapter={(apiResponse) => { return apiResponse}}/> 
-            <AccommodationViewer />
+            <div style={{ height: '16px' }}/>
+            <AccommodationViewer city={region ? region[2] : undefined} time={time} datasource={getAccommodationInfo} />
           </div>
         </div>
     </div>

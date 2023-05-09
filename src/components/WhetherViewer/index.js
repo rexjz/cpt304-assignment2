@@ -8,9 +8,7 @@ export default function WheatherViewer(props) {
   const [whether, setWhether] = useState(undefined)
   useEffect(() => {
     if(time && geo) {
-      console.log("datasource(geo, time)")
       datasource(geo, time).then(resp => {
-        console.log("resp", resp)
         setWhether(adapter(resp))
       })
     }
