@@ -2,23 +2,6 @@ import { useEffect, useState } from 'react'
 import { Radio, Space } from 'antd';
 import './index.css'
 
-interface HolidayInfo {
-  date: string,
-  localName: string
-}
-
-interface WeatherInfo {
-    temperature: Number;
-    weathercode: Number;
-    windspeed: Number; 
-    winddirection: Number;
-  }
-
-  interface HotelRoomInfo {
-    hotel_name: Number; 
-    room_type: String;
-    price: Number;
-  }
 
 export default function HolidayViewer(props) {
   const { region, adapter, onChange: deliver = ()=>{}, datasource } = props

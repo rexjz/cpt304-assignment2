@@ -2,19 +2,6 @@ import { useCallback, useEffect, useState } from "react"
 import { Cascader } from 'antd';
 import './index.css'
 
-
-interface Option {
-  value: string | number;
-  label: string;
-  children?: Option[];
-}
-
-interface Region {
-  country: String,
-  station: String,
-  city: String
-}
-
 export default function CitySelector(props) {
   const { onChange: deliver = () => {}, placeholder="please select", datasource, adapter } = props;
   const [options, setOptions] = useState([]);
