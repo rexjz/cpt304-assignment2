@@ -11,7 +11,6 @@ export default function CitySelector(props) {
   useEffect(() => {
     getCountryList().then( resp => {
       const opts = sitySelectorDataAdapter(resp)
-      console.log('sitySelectorDataAdapter(resp)', opts)
       setOptions(opts)
     }
     )
@@ -23,7 +22,6 @@ export default function CitySelector(props) {
       station: e[1],
       city: e[2]
     })
-    console.log(e)
   }, [options])
 
   return (

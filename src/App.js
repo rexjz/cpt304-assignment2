@@ -11,13 +11,14 @@ function App() {
   const [time, setTime] = useState(undefined)
   return (
     <div className="App" style={{padding: '32px'}}>
-        <div style={{ display: 'flex', flexDirection: 'row' }}>
+        <div style={{ display: 'flex', flexDirection: 'row', width: '200px' }}>
           <div style={{ display: 'flex', flexDirection: 'column' }}>      
             <CitySelector onChange={setRegion}/>
-            <HolidayViewer region={region}/>
+            <div style={{ height: '16px' }}/>
+            <HolidayViewer region={region} onChange={(holiday) => {setTime(holiday.date)}}/>
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', marginLeft: '12px' }}>
-            <WheatherViewer time='2019-1-1' geo={region} datasource={getWheather} adapter={(apiResponse) => { return apiResponse}}/> 
+            <WheatherViewer time={time} geo={region} datasource={getWheather} adapter={(apiResponse) => { return apiResponse}}/> 
           </div>
         </div>
     </div>

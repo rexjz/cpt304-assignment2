@@ -5,7 +5,6 @@ const city_json_url = process.env.PUBLIC_URL + '/cities.json'
 
 export async function getCountryList() {
   const { data } = await axios.get(city_json_url)
-  console.log(data)
   return data['Earth']['Country']
 }
 
@@ -57,4 +56,18 @@ function getRandomInt(max) {
 
 export function getWheather(city) {
   return Promise.resolve(whether_pool[getRandomInt(whether_pool.length)])
+}
+
+const country_code_table = {
+  "China": "CN",
+  "United States": "US",
+  "Canada": "CA",
+  "Australia": "AU"
+}
+
+export async function getHolidays(country_id) {
+  const code = country_code_table[country_id]
+  const holiday_json_url = process.env.PUBLIC_URL + `/holidays-${code}.json`
+  const { data } = await axios.get(holiday_json_url)
+  return data
 }
