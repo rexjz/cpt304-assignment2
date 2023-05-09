@@ -5,6 +5,7 @@ import WheatherViewer from "./components/WhetherViewer"
 import { getWheather } from './apis';
 import { useState } from 'react';
 import HolidayViewer from './components/HolidayViewer'
+import AccommodationViewer from './components/AccommodationViewer'
 
 function App() {
   const [region, setRegion] = useState(undefined)
@@ -25,6 +26,7 @@ function App() {
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', marginLeft: '12px' }}>
             <WheatherViewer time={time} geo={region} datasource={getWheather} adapter={(apiResponse) => { return apiResponse}}/> 
+            <AccommodationViewer />
           </div>
         </div>
     </div>
