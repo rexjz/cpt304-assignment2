@@ -4,7 +4,7 @@ export function sitySelectorDataAdapter(counteryList) {
     console.log(country)
     res.push({
       value: country['CountryID'],
-      label: country['CountryName'],
+      label: country['CountryID'],
       children: country['Station']?.map(station => {
         let cities = []
         if(!station['City']) {
@@ -12,17 +12,17 @@ export function sitySelectorDataAdapter(counteryList) {
         } else if(Array.isArray(station['City'])) {
           cities = station['City'].map(city => ({
             value: city['CityID'],
-            label: city['CityName']
+            label: city['CityID']
           }))
         } else {
           cities = [{
             value: station['City']['CityID'],
-            label: station['City']['CityName']
+            label: station['City']['CityID']
           }]
         }
         return ({
           value: station['StationID'],
-          label: station['StationName'],
+          label: station['StationID'],
           children: cities
         })
       })
