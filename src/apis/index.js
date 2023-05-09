@@ -7,7 +7,35 @@ export async function getCountryList() {
   const { data } = await axios.get(city_json_url)
   return data['Earth']['Country']
 }
+interface HolidayInfo {
+  date: string,
+  localName: string
+}
 
+interface WeatherInfo {
+    temperature: Number;
+    weathercode: Number;
+    windspeed: Number; 
+    winddirection: Number;
+  }
+
+interface HotelRoomInfo {
+  hotel_name: String; 
+  room_type: String;
+  price: Number;
+}
+
+interface Option {
+  value: string | number;
+  label: string;
+  children?: Option[];
+}
+
+interface Region {
+  country: String,
+  station: String,
+  city: String
+}
 
 const whether_pool = [
   {

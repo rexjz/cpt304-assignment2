@@ -1,15 +1,32 @@
 import { useEffect, useState } from 'react'
-import { getHolidays } from "../../apis"
-import { Input, Radio, Space } from 'antd';
+import { Radio, Space } from 'antd';
 import './index.css'
 
+interface HolidayInfo {
+  date: string,
+  localName: string
+}
+
+interface WeatherInfo {
+    temperature: Number;
+    weathercode: Number;
+    windspeed: Number; 
+    winddirection: Number;
+  }
+
+  interface HotelRoomInfo {
+    hotel_name: Number; 
+    room_type: String;
+    price: Number;
+  }
+
 export default function HolidayViewer(props) {
-  const { region, adapter=(input) => input, onChange: deliver = ()=>{} } = props
+  const { region, adapter, onChange: deliver = ()=>{}, datasource } = props
   const [ holidays, setHolidays ] = useState([])
 
   useEffect(() => {
     if(region) {
-      getHolidays(region.country).then(resp => {
+      datasource(region.country).then(resp => {
         setHolidays(adapter(resp))
         console.log(resp)
       })
